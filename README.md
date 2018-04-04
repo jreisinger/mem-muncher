@@ -27,5 +27,5 @@ Turn on swapping
     sudo swapon -a
 
 See [Linux ate my
-memory](https://github.com/jreisinger/blog/blob/master/posts/linux-ate-my-memory.md)
+memory!](https://github.com/jreisinger/blog/blob/master/posts/linux-ate-my-memory.md)
 for more.
